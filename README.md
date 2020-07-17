@@ -11,7 +11,7 @@ All input data must be in csv or tsv. Content of the input files must include `f
 
 This means that `file1` is labeled with ICD10 codes `g45.9` and `i72.2`.
 ### Python dependencies
-
+Dependcies exist in the `requirements.txt` file. Simply install them by `pip install -r requirements.txt`
 
 ## Data
 * Pretrained fastText embedding from SBWC can be downloaded from [here](https://github.com/dccuchile/spanish-word-embeddings).
